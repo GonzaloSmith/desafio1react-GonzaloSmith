@@ -6,19 +6,19 @@ import Footer from "./components/Footer";
 
 const img = [{
   id: 1,
-  src: "https://cdn.pixabay.com/photo/2016/08/16/17/20/elevators-1598431_960_720.jpg",
-  titulo: "Elevadores futuristas",
-  description: "En el futuro viviremos en ciudades cerradas por la contaminación",
+  src: "https://cdn.pixabay.com/photo/2015/10/26/09/08/cure-1006810_960_720.jpg",
+  titulo: "Efecto Placebo/Nocebo",
+  description: "Efectos que nuestro conciente no controla",
 }, {
   id: 2,
-  src: "https://cdn.pixabay.com/photo/2017/10/17/19/11/fantasy-2861815_960_720.jpg",
-  titulo: "Invasión Alienigena",
-  description: "Con el paso de los años conoceremos nuevas civilizaciones, algunas podrían ser increíblemente mas inteligentes que nosotros",
+  src: "https://cdn.pixabay.com/photo/2017/01/25/12/31/bitcoin-2007769_960_720.jpg",
+  titulo: "Moneda Digital",
+  description: "¿Cómo se puede obtener bitcoins?",
 }, {
   id: 3,
   src: "https://cdn.pixabay.com/photo/2017/12/10/17/00/robot-3010309_960_720.jpg",
-  titulo: "Super Humanos",
-  description: "Debido al cruce entre ciencias generaremos Super Humanos mitad Robots",
+  titulo: "Transhumanismo",
+  description: "El cruce entre la ciencia y el cuerpo humano",
 }];
 
 function App() {
